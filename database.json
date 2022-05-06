@@ -1,0 +1,24 @@
+{
+    "securesystem": {
+        "waleed": {
+            "salt": "200070456922f7af",
+            "password hash": "c15c40636ab2aa7b463eb1ceac64907dc151eb42"
+        },
+        "bassma": {
+            "salt": "490224bd49e5aed0",
+            "password hash": "43bca2dfa89c99b3e967a9f72444bd299e387ea4"
+        },
+        "hussein": {
+            "salt": "804c20b095c7e69a",
+            "password hash": "352fbd2a89be84f409a68cfa028720cffa509a22"
+        },
+        "hj": {
+            "salt": "031f57bb44a1ab6d",
+            "password hash": "5c404a929cdfc1f6499b82e73989b1595bc36bf9"
+        },
+        "kilany": {
+            "salt": "ba93af0d93c78a9d",
+            "password hash": "ab726d44635410957770fd37f45610b0adc077af"
+        }
+    }
+}
